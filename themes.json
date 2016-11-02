@@ -13,18 +13,6 @@
   },
   {
     "author": "Tshaz",
-    "name": "Emerald",
-    "keyWords": "Vert, Emerald, black, noir",
-    "version": "1.0.0",
-    "dofusVersion": "2.37",
-    "description": "[PAS FINI]Thème sombre avec des teintes de vert émeraude",
-    "url": "https://github.com/Swartzio/Themes/blob/master/Emerald.zip?raw=true",
-    "previewUrl": "https://raw.githubusercontent.com/Swartzio/Themes/master/Orange.PNG",
-    "creationDate": "13/10/2016",
-    "modificationDate": "13/10/2016"
-  },
-  {
-    "author": "Tshaz",
     "name": "BeigeBleu",
     "keyWords": "",
     "version": "1.0.3",
